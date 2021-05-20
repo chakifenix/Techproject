@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>967203077932-i0ciqvnof8rdgmomboabj9asvqrem3n3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.967203077932-i0ciqvnof8rdgmomboabj9asvqrem3n3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-EJYTfFHhwYHaODs3-lyi4kMIX2HFg4o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>967203077932</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ZYK.TechProject</string>
+	<key>PROJECT_ID</key>
+	<string>techproject-32f3a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>techproject-32f3a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:967203077932:ios:93892664134e413c</string>
+	<key>DATABASE_URL</key>
+	<string>https://techproject-32f3a.firebaseio.com</string>
+</dict>
+</plist>
